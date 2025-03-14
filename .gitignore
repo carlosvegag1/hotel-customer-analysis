@@ -1,0 +1,14 @@
+# Ignorar archivos y carpetas innecesarios
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.csv
+*.tsv
+*.sqlite
+*.db
+.DS_Store
+.vscode/
+.env/
+.venv/
+*.log
