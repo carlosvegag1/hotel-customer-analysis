@@ -67,7 +67,7 @@ Si prefieres explorar el análisis sin necesidad de ejecutar código, puedes acc
 
 1️⃣
 📄 **Versión en HTML**  
-🔗 **[Hotel-Customer-Analysis.html](https://carlosvegag1.github.io/accidents-analysis-madrid/accidents_analysis.html)**
+🔗 **[Hotel-Customer-Analysis.html](https://carlosvegag1.github.io/hotel-customer-analysis/hotel_customer_analysis.html)**
 
 2️⃣
 📄 **Versión en PDF**  
