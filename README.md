@@ -67,11 +67,11 @@ Si prefieres explorar el análisis sin necesidad de ejecutar código, puedes acc
 
 1️⃣
 📄 **Versión en HTML**  
-🔗 **[Accidents-Analysis-Madrid.html](https://carlosvegag1.github.io/accidents-analysis-madrid/accidents_analysis.html)**
+🔗 **[Hotel-Customer-Analysis.html](https://carlosvegag1.github.io/accidents-analysis-madrid/accidents_analysis.html)**
 
 2️⃣
 📄 **Versión en PDF**  
-🔗 **[Accidents-Analysis-Madrid.pdf](https://github.com/carlosvegag1/accidents-analysis-madrid/blob/main/docs/accidents_analysis.pdf)**
+🔗 **[Hotel-Customer-Analysis.pdf](https://github.com/carlosvegag1/hotel-customer-analysis/blob/main/docs/hotel_customer_analysis.pdf)**
 
 ---
 
