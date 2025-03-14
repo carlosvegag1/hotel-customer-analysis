@@ -46,8 +46,8 @@ Este análisis explora datos reales de un hotel, estudiando **factores clave** c
 
 ### 1️⃣ Clona el Repositorio
 ```bash
-git clone https://github.com/TU-USUARIO/NOMBRE_DEL_PROYECTO.git
-cd NOMBRE_DEL_PROYECTO
+git clone https://github.com/carlosvegag1/hotel-customer-analysis.git
+cd hotel-customer-analysis
 ```
 ### 2️⃣ Crear un Entorno Virtual e Instalar Dependencias
 ```bash
@@ -57,7 +57,7 @@ pip install -r requirements.txt
 ```
 ### 3️⃣ Ejecutar el Notebook
 ```bash
-Abre Jupyter Notebook y ejecuta accidents_analysis.ipynb
+Abre Jupyter Notebook y ejecuta hotel-customer-analysis.ipynb
 jupyter notebook
 ```
 
