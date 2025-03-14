@@ -1,7 +1,7 @@
 # 🏨 Análisis de Clientes en un Hotel: ¿Cómo influye la estancia en el precio?
 
 <p align="center">
-<a href="https://github.com/TU-USUARIO/NOMBRE_DEL_PROYECTO"><img src="images/banner.png" width="80%"></a>
+<a href="https://github.com/carlosvegag1/hotel-customer-analysis"><img src="https://i.imgur.com/1o7JhAT.png" width="80%"></a>
 </p>
 
 ## 📊 ¿Qué determina el precio que pagan los clientes?
@@ -13,12 +13,13 @@ Este análisis explora datos reales de un hotel, estudiando **factores clave** c
 
 ## 🔎 ¿Qué encontrarás en este estudio?
 
-✅ **Análisis unidimensional y bidimensional de las variables clave.**  
-✅ **Modelos de regresión para predecir el precio en función de la estancia y otros factores.**  
+✅ **Análisis exploratorio de datos (EDA) con visualizaciones detalladas.**  
+✅ **Regresiones lineales para predecir el precio en función de la estancia y otros factores.**  
 ✅ **Correlaciones entre edad, satisfacción y duración de la estancia.**  
 ✅ **Uso de regresión Lasso para identificar las variables más relevantes.**  
+✅ **Evaluación de modelos de Machine Learning para mejorar la precisión de las predicciones.** 
 
-📉 **¿Realmente la satisfacción del cliente tiene impacto en el precio? Averígualo en este análisis.**  
+📉 **¿La satisfacción del cliente realmente influye en el precio? Averígualo en este análisis.** 
 
 ---
 
@@ -26,17 +27,17 @@ Este análisis explora datos reales de un hotel, estudiando **factores clave** c
 
 ### 📈 Relación entre Edad y Días de Estancia
 <p align="center">
-  <img src="images/edad_vs_estancia.png" width="70%">
-</p>
-
-### 💰 Precio según la Duración de la Estancia
-<p align="center">
-  <img src="images/precio_vs_estancia.png" width="70%">
+  <img src="https://i.imgur.com/QJdPwpY.png" width="70%">
 </p>
 
 ### 🔥 Mapa de Correlaciones entre Variables
 <p align="center">
-  <img src="images/correlacion_variables.png" width="70%">
+  <img src="https://i.imgur.com/4o0BIUR.png" width="70%">
+</p>
+
+### 🔎 Pairplot según el tipo de habitación reservada
+<p align="center">
+  <img src="https://i.imgur.com/0fASwUm.png" width="70%">
 </p>
 
 ---
@@ -75,17 +76,22 @@ Si prefieres explorar el análisis sin necesidad de ejecutar código, puedes acc
 ---
 
 ## 📥 Origen de los Datos
-Los datos analizados en este proyecto provienen del Portal de Datos Abiertos del Ayuntamiento de Madrid. Este portal proporciona acceso a conjuntos de datos públicos con el objetivo de promover la transparencia y facilitar la reutilización de la información. En particular, se ha utilizado el conjunto de datos titulado "Accidentes de tráfico de la ciudad de Madrid", disponible en el siguiente enlace:
+Los datos analizados en este proyecto **han sido generados de manera sintética** para emular patrones de comportamiento reales de clientes en hoteles.
 
-🔗 **[Accidentes de tráfico de la ciudad de Madrid](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=7c2843010d9c3610VgnVCM2000001f4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)**
 
-Este conjunto de datos incluye registros detallados de los accidentes de tráfico en Madrid, recopilados por la Policía Municipal. 
-Para más información sobre el portal y otros conjuntos de datos disponibles, visitar el **[Portal de datos abiertos del Ayuntamiento de Madrid](https://datos.madrid.es/portal/site/egob)**
+El dataset incluye información sobre:
+
+📌 Edad y Nacionalidad de los clientes  
+📌 Número de días de estancia y tipo de habitación reservada.  
+📌 Satisfacción del cliente en una escala de 1 a 10.  
+📌 Precio total pagado por la estancia.
+
+Este análisis sigue un enfoque práctico que puede aplicarse en casos reales de la industria hotelera y turística.
 
 ---
 
 ### 🤝 Compalte
-Este proyecto es un análisis sobre los accidentes en Madrid que he desarrollado como parte de mi formación en ciencia de datos. Si tienes sugerencias o quieres contribuir, ¡serás bienvenido!
+Este proyecto es un análisis aplicando sencillas técnicas de Machine Learning que he desarrollado como parte de mi formación en ciencia de datos. Si tienes sugerencias o quieres contribuir, ¡serás bienvenido!
 
 **⭐ Si te resulta útil, no olvides darle una estrella al repositorio. 🚀**
 
