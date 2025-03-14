@@ -14,7 +14,7 @@ Este análisis explora datos reales de un hotel, estudiando **factores clave** c
 ## 🔎 ¿Qué encontrarás en este estudio?
 
 ✅ **Análisis exploratorio de datos (EDA) con visualizaciones detalladas.**  
-✅ **Regresiones lineales para predecir el precio en función de la estancia y otros factores.**  
+✅ **Regresiones lineales para predecir el precio en función de distintos factores.**  
 ✅ **Correlaciones entre edad, satisfacción y duración de la estancia.**  
 ✅ **Uso de regresión Lasso para identificar las variables más relevantes.**  
 ✅ **Evaluación de modelos de Machine Learning para mejorar la precisión de las predicciones.** 
