@@ -6,7 +6,7 @@
 
 ## 📊 ¿Qué determina el precio que pagan los clientes?
 
-¿El precio de una habitación depende más de la duración de la estancia o del perfil del cliente? 🤔  
+¿El precio de una habitación depende más de la duración de la estancia o del perfil del cliente?   
 Este análisis explora datos reales de un hotel, estudiando **factores clave** como la edad, la duración de la estancia y la satisfacción para entender qué influye en el precio final.
 
 ---
