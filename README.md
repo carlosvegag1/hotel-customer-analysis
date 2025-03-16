@@ -89,7 +89,7 @@ Este análisis sigue un enfoque práctico que puede aplicarse en casos reales de
 ---
 
 ### 🤝 Compalte
-Este proyecto es un análisis aplicando sencillas técnicas de Machine Learning que he desarrollado como parte de mi formación en ciencia de datos. Si tienes sugerencias o quieres contribuir, ¡serás bienvenido!
+Este proyecto es un análisis aplicando sencillas técnicas de Machine Learning que he desarrollado en equipo con más compañeros como parte de mi formación en ciencia de datos. Si tienes sugerencias o quieres contribuir, ¡serás bienvenido!
 
 **⭐ Si te resulta útil, no olvides darle una estrella al repositorio.**
 
