@@ -19,7 +19,7 @@ Este análisis explora datos reales de un hotel, estudiando **factores clave** c
 ✅ **Uso de regresión Lasso para identificar las variables más relevantes.**  
 ✅ **Evaluación de modelos de Machine Learning para mejorar la precisión de las predicciones.** 
 
- **¿La satisfacción del cliente realmente influye en el precio? Averígualo en este análisis.** 
+ ¿La satisfacción del cliente realmente influye en el precio? Averígualo en este análisis.
 
 ---
 
