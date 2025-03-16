@@ -11,7 +11,7 @@ Este análisis explora datos reales de un hotel, estudiando **factores clave** c
 
 ---
 
-## 🔎 ¿Qué encontrarás en este estudio?
+## ⚙️ ¿Qué encontrarás en este estudio?
 
 ✅ **Análisis exploratorio de datos (EDA) con visualizaciones detalladas.**  
 ✅ **Regresiones lineales para predecir el precio en función de distintos factores.**  
@@ -30,19 +30,19 @@ Este análisis explora datos reales de un hotel, estudiando **factores clave** c
   <img src="https://i.imgur.com/QJdPwpY.png" width="70%">
 </p>
 
-### 🔥 Mapa de Correlaciones entre Variables
+### 📌 Mapa de Correlaciones entre Variables
 <p align="center">
   <img src="https://i.imgur.com/4o0BIUR.png" width="70%">
 </p>
 
-### 🔎 Pairplot según el tipo de habitación reservada
+### 🎯 Pairplot según el tipo de habitación reservada
 <p align="center">
   <img src="https://i.imgur.com/0fASwUm.png" width="70%">
 </p>
 
 ---
 
-## 🔧 Instalación y Uso
+## 🛠️ Instalación y Uso
 
 ### 1. Clona el Repositorio
 ```bash
