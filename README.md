@@ -1,7 +1,7 @@
 # 🏨 Análisis de Clientes en un Hotel: ¿Cómo influye la estancia en el precio?
 
 <p align="center">
-<a href="https://github.com/carlosvegag1/hotel-customer-analysis"><img src="https://i.imgur.com/eM89suS.png" width="80%"></a>
+<a href="https://github.com/carlosvegag1/hotel-customer-analysis"><img src="https://i.imgur.com/OFdNthW.png" width="80%"></a>
 </p>
 
 ## 📊 ¿Qué determina el precio que pagan los clientes?
