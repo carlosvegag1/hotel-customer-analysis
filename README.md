@@ -44,18 +44,18 @@ Este análisis explora datos reales de un hotel, estudiando **factores clave** c
 
 ## 🔧 Instalación y Uso
 
-### 1️ Clona el Repositorio
+### 1. Clona el Repositorio
 ```bash
 git clone https://github.com/carlosvegag1/hotel-customer-analysis.git
 cd hotel-customer-analysis
 ```
-### 2️ Crear un Entorno Virtual e Instalar Dependencias
+### 2. Crear un Entorno Virtual e Instalar Dependencias
 ```bash
 python -m venv env
 source env/bin/activate  # (Windows: env\Scripts\activate)
 pip install -r requirements.txt
 ```
-### 3️ Ejecutar el Notebook
+### 3. Ejecutar el Notebook
 ```bash
 Abre Jupyter Notebook y ejecuta hotel-customer-analysis.ipynb
 jupyter notebook
