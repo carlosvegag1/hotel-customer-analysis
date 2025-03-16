@@ -19,11 +19,11 @@ Este análisis explora datos reales de un hotel, estudiando **factores clave** c
 ✅ **Uso de regresión Lasso para identificar las variables más relevantes.**  
 ✅ **Evaluación de modelos de Machine Learning para mejorar la precisión de las predicciones.** 
 
-📉 **¿La satisfacción del cliente realmente influye en el precio? Averígualo en este análisis.** 
+ **¿La satisfacción del cliente realmente influye en el precio? Averígualo en este análisis.** 
 
 ---
 
-## 📊 Visualizaciones Destacadas
+##  Visualizaciones Destacadas
 
 ### 📈 Relación entre Edad y Días de Estancia
 <p align="center">
@@ -44,18 +44,18 @@ Este análisis explora datos reales de un hotel, estudiando **factores clave** c
 
 ## 🔧 Instalación y Uso
 
-### 1️⃣ Clona el Repositorio
+### 1️ Clona el Repositorio
 ```bash
 git clone https://github.com/carlosvegag1/hotel-customer-analysis.git
 cd hotel-customer-analysis
 ```
-### 2️⃣ Crear un Entorno Virtual e Instalar Dependencias
+### 2️ Crear un Entorno Virtual e Instalar Dependencias
 ```bash
 python -m venv env
 source env/bin/activate  # (Windows: env\Scripts\activate)
 pip install -r requirements.txt
 ```
-### 3️⃣ Ejecutar el Notebook
+### 3️ Ejecutar el Notebook
 ```bash
 Abre Jupyter Notebook y ejecuta hotel-customer-analysis.ipynb
 jupyter notebook
@@ -65,11 +65,9 @@ jupyter notebook
 
 Si prefieres explorar el análisis sin necesidad de ejecutar código, puedes acceder aquí:  
 
-1️⃣
 📄 **Versión en HTML**  
 🔗 **[Hotel-Customer-Analysis.html](https://carlosvegag1.github.io/hotel-customer-analysis/hotel_customer_analysis.html)**
 
-2️⃣
 📄 **Versión en PDF**  
 🔗 **[Hotel-Customer-Analysis.pdf](https://github.com/carlosvegag1/hotel-customer-analysis/blob/main/docs/hotel_customer_analysis.pdf)**
 
@@ -93,7 +91,7 @@ Este análisis sigue un enfoque práctico que puede aplicarse en casos reales de
 ### 🤝 Compalte
 Este proyecto es un análisis aplicando sencillas técnicas de Machine Learning que he desarrollado como parte de mi formación en ciencia de datos. Si tienes sugerencias o quieres contribuir, ¡serás bienvenido!
 
-**⭐ Si te resulta útil, no olvides darle una estrella al repositorio. 🚀**
+**⭐ Si te resulta útil, no olvides darle una estrella al repositorio.**
 
 
 ### 📬 Contacto
